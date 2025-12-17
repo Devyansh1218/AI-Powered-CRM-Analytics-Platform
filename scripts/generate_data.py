@@ -13,7 +13,7 @@ if PROJECT_ROOT not in sys.path:
 import random
 import pandas as pd
 from faker import Faker
-from app.db import engine
+from core.db import engine
 
 fake = Faker()
 

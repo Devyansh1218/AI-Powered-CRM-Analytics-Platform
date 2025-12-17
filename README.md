@@ -13,6 +13,7 @@ Built with **Python, Streamlit, Pandas, and Groq LLMs**, this project mirrors re
 ### 🔐 Authentication
 
 * Simple login system to simulate gated enterprise dashboards
+* use admin@crm.com and admin123 as id and pass
 
 ### 📁 Data Ingestion
 
