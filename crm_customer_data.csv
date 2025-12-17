@@ -1,0 +1,16 @@
+customer_id,signup_date,lead_source,plan_type,monthly_revenue,logins_last_30_days,support_tickets,contract_months,stage,churn_risk
+C001,2024-01-12,Website,Pro,4999,22,1,12,Customer,Low
+C002,2024-01-18,Ads,Basic,1999,5,4,6,Negotiation,High
+C003,2024-02-05,Referral,Pro,4999,18,0,12,Customer,Low
+C004,2024-02-10,Website,Basic,1999,3,6,3,Qualified Lead,High
+C005,2024-02-20,Outbound,Enterprise,12999,26,1,24,Customer,Low
+C006,2024-03-02,Website,Pro,4999,12,2,12,Demo Booked,Medium
+C007,2024-03-15,Ads,Basic,1999,4,5,6,Qualified Lead,High
+C008,2024-03-22,Referral,Pro,4999,20,0,12,Customer,Low
+C009,2024-04-01,Outbound,Enterprise,12999,15,2,24,Negotiation,Medium
+C010,2024-04-12,Website,Basic,1999,2,7,3,Lead Captured,High
+C011,2024-04-18,Ads,Pro,4999,10,3,12,Demo Booked,Medium
+C012,2024-05-01,Referral,Enterprise,12999,28,1,24,Customer,Low
+C013,2024-05-09,Website,Basic,1999,6,4,6,Qualified Lead,Medium
+C014,2024-05-20,Outbound,Pro,4999,14,2,12,Negotiation,Medium
+C015,2024-06-01,Website,Enterprise,12999,30,0,24,Customer,Low

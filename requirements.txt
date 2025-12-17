@@ -1,0 +1,10 @@
+pandas
+numpy
+sqlalchemy
+faker
+streamlit
+matplotlib
+seaborn
+openai
+python-dotenv
+groq
